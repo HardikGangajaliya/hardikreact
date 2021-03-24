@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hardikreact/static/css/main.b48902da.chunk.css",
+    "main.js": "/hardikreact/static/js/main.145f20c1.chunk.js",
+    "main.js.map": "/hardikreact/static/js/main.145f20c1.chunk.js.map",
+    "runtime-main.js": "/hardikreact/static/js/runtime-main.3a584d32.js",
+    "runtime-main.js.map": "/hardikreact/static/js/runtime-main.3a584d32.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/hardikreact/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ba9d5bd2.chunk.js": "/hardikreact/static/js/2.ba9d5bd2.chunk.js",
+    "static/js/2.ba9d5bd2.chunk.js.map": "/hardikreact/static/js/2.ba9d5bd2.chunk.js.map",
+    "index.html": "/hardikreact/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/hardikreact/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b48902da.chunk.css.map": "/hardikreact/static/css/main.b48902da.chunk.css.map",
+    "static/js/2.ba9d5bd2.chunk.js.LICENSE.txt": "/hardikreact/static/js/2.ba9d5bd2.chunk.js.LICENSE.txt",
+    "static/media/111.b1ed6e8b.jpg": "/hardikreact/static/media/111.b1ed6e8b.jpg",
+    "static/media/computer-animate.9ca5c30e.png": "/hardikreact/static/media/computer-animate.9ca5c30e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a584d32.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ba9d5bd2.chunk.js",
+    "static/css/main.b48902da.chunk.css",
+    "static/js/main.145f20c1.chunk.js"
+  ]
+}
