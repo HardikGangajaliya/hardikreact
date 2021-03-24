@@ -1,0 +1,107 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.kp-text {
+  height: 32vh;
+  width: 75vh;
+  margin-top: 10vh;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 2px 3px 12px 0px rgba(63, 50, 50, 0.3);
+  border-radius: 10px;
+}
+.kp-text input {
+  margin-top: 15px;
+  width: 100%;
+  height: 25px;
+  font-size: 25px;
+  padding-left: 10px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid black;
+}
+.kp-text textarea{
+  width: 100%;
+  height: 110px;
+  padding-left: 10px;
+  margin-top: 20px;
+  font-size: 20px;
+  border: none;
+  outline: none;
+}
+.add_btn{
+  float: right;
+  position: absolute;
+  left: 20px;
+  top: -14px;
+  border-radius: 50% !important;
+  height: 50px !important;
+  width: 50px !important;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.404);
+  transition: 0.7s !important;
+  background-color: white !important;
+  color: rgb(255, 174, 0) !important;
+}
+.add_btn:hover{
+  background-color:  rgb(255, 174, 0) !important;
+  color: white !important;
+}
+.MuiSvgIcon-root {
+  width: 25px !important;
+  height: 25px !important;
+}
+.MuiButton-root {
+ min-width: 40px !important;
+}
+
+.MuiSvgIcon-root {
+  width: 45px !important;
+  height: 45px !important;
+}
+.kp-comp{
+  height: 155px;
+  width: 235px;
+  margin: 20px;
+  margin-top: 20px;
+  float: left;
+  padding-top: 5px;
+  overflow-wrap: break-word;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.404);
+  border-radius: 5px;
+}
+.kp-comp h2{
+  padding-left: 10px;
+  text-transform: capitalize;
+}
+.kp-comp h5{
+  padding-left: 10px;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.7);
+} 
+.kp-comp .delbtn{
+  float: right;
+  left: -4px;
+  top: 28px;
+  border-radius: 50% !important;
+  height: 40px !important;
+  width: 40px !important;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.404);
+  transition: 0.7s !important;
+  background-color: white !important;
+  color: rgb(240, 0, 0) !important;
+}
+
+
+.kp-comp .delbtn:hover{
+  background-color:  rgb(240, 0, 0)  !important;
+  color: white !important;
+}
+.kp-comp .MuiSvgIcon-root {
+  width: 30px !important;
+  height: 30px !important;
+}
+.kp-comp .MuiButton-root {
+ min-width: 30px !important;
+}
